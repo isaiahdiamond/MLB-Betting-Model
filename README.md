@@ -19,6 +19,7 @@ The objective of this engine is to identify pricing inefficiencies in MLB totals
 *   **P&L Backtesting Engine:** Simulates chronological, season-long betting strategies comparing two staking methods:
     *   **Fixed Staking:** Flat percentage allocation of the starting bankroll.
     *   **Fractional Kelly Criterion:** Dynamic bet sizing based on calculated edge and real-time bankroll to optimize growth and manage variance.
+    *   **👉 View Results:** *Navigate into the `mlb_models` directory and scroll to the bottom of the notebook to see chronological equity curves and P&L charts comparing both staking methods tested on out-of-sample data.*
 
 ## 💻 Tech Stack
 
