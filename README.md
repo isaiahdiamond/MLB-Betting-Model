@@ -1,4 +1,4 @@
-# MLB Over/Under Quantitative Prediction & Backtesting Engine
+# MLB Over/Under Betting Models
 
 A algorithmic betting system designed to model MLB game totals (Over/Under) and backtest expected value against consensus market lines.
 
